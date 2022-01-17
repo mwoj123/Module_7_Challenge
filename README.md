@@ -108,7 +108,7 @@ Charting the cumulative return for this ETF in hvplot, we also see strong growth
 
 ## Web Application
 
-To provide an even stronger display for this analysis, I used Viola in gitbash to view the output of this notebook as a web application. Below is a screenshot of this output:
+To provide an even stronger display for this analysis, I used Voila in Git Bash to view the output of this notebook as a web application. Below are images of this output:
 
 ![chart](images/chart4.PNG)
 
